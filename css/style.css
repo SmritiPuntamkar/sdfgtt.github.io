@@ -6,23 +6,23 @@
 .navbar{
 
 border: none;
-background-color: grey;
+background-color: #898484;
 
 }
 body{
-	background-color: white;
-	color: black;
+	background-color: #f8f5f5;
+	color: #0f0101;
 }
 
 
 .center{
 	width: 90%;
-	background-color: grey;
+	background-color: #898484;
 
 }
 .container
 {
-	background-color: grey;
+	background-color: #898484;
 }
 .text-center{
 	font-size: 30px;
@@ -32,10 +32,10 @@ h2{
 	text-align: center;
 }
 #myNavbar ul li a {
-	color: black;
+	color: #0f0101;
     text-align: center;
 }
 #navbar-brand{
     font-size: 30px;
-    color: black;
+    color: #0f0101;
 }
